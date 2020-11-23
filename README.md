@@ -1,0 +1,1 @@
+# 1R-10M_variable_resistor
